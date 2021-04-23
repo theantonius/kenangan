@@ -5,7 +5,7 @@ Kenang Kenangan is a series of digital memories of Indonesia. The artist Antoniu
 ### Kenang Kenangan 001
 
 Item 1 of the series is a photogrammetry of a Javanese wooden puppet.
-![image](kenangan-001.png)
+![image](/kenangan-001.png)
 
 ### Kenang Kenangan 002
 

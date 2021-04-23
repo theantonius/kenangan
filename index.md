@@ -5,14 +5,14 @@ Kenang Kenangan is a series of digital memories of Indonesia. The artist Antoniu
 ### Kenang Kenangan 001
 
 Item 1 of the series is a photogrammetry of a Javanese wooden puppet.
-![image](https://github.com/theantonius/kenangan/blob/gh-pages/kenangan-001.png)
+![image](/kenangan-001.png)
 
 ### Kenang Kenangan 002
 
 Item 2 of the series is a 360 degree video of Javanese Gamelan composer Peni Candra Rini with fellow musicians in her studio on May 1, 2019 in Surakarta, Indonesia.
-![image](https://github.com/theantonius/kenangan/blob/gh-pages/kenangan-002.png)
+![image](/kenangan-002.png)
 
 ### Kenang Kenangan 003
 
 Item 3 of the series is a point cloud of traditional Javanese dancer Abie Aziz Aboodi recorded on April 7, 2019 in Surakarta, Indonesia.
-![image](https://github.com/theantonius/kenangan/blob/gh-pages/kenangan-003.png)
+![image](/kenangan-003.png)
